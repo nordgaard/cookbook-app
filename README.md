@@ -1,1 +1,1 @@
-# cookbook-app
+# js-intro-app
